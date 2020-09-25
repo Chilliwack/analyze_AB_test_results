@@ -20,4 +20,4 @@ This project was done as part of [Udacity's Data Analyst Nanodegree](https://www
 - Regression
 - Logistic Regression
 
-Please see the [notebook](https://github.com/Chilliwack/analyze_AB_test_results) for further details: https://github.com/Chilliwack/analyze_AB_test_results.ipynb
+Please see the [notebook](https://github.com/Chilliwack/analyze_AB_test_results/blob/master/analyze_AB_test_results.ipynb) for further details: https://github.com/Chilliwack/analyze_AB_test_results/blob/master/analyze_AB_test_results.ipynb
